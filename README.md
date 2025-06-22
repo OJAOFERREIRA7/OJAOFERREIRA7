@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Meu nome é João Pedro e tenho 18 anos. Atualmente estou cursando Ciência da Computação na UNISAGRADO.
+- 🔭 Meu nome é João Pedro e tenho 19 anos. Atualmente estou cursando Ciência da Computação na UNISAGRADO.
 - 🌱 Amo a área de tecnologia e desenvolvimento de software, quero sempre aprender novas coisas
 - 👯 Adoro a parte de tecnologia web, sempre aprendendo a respeito de JavaScript, HTML, CSS e dentre outras tecnologias.
 - 🤔 Fazendo parte atualmente de um projeto na faculdade no desenvolvimento de um jogo chamado "Missão Solidária"
